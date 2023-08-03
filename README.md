@@ -38,7 +38,7 @@ I have developed a Python application called "CalculatorPlus." The application p
 
 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ## Author
 
 This assignment is created by **[Mohammad Israrul Haque]**.
@@ -46,5 +46,5 @@ This assignment is created by **[Mohammad Israrul Haque]**.
 ## License
 
 This assignment is licensed under the MIT License.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
