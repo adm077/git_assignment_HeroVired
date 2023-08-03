@@ -12,5 +12,19 @@ I have developed a Python application called "CalculatorPlus." The application p
   - Implemented the function to calculate the square root of a number.
   - First created a new branch feature/sqrt under 'dev'
   - Add the .py codes for sqrt feature & Test it & release the second version i.e. version v2.0
+
+**Bug Fixed**
+  - During the second step I found a bug in the divide function
+  - Fixed that, test it again & push the code with the correct codes.
+
+
+
+## Author
+
+This assignment is created by **[Mohammad Israrul Haque]**.
+
+## License
+
+This assignment is licensed under the MIT License.
   
 
