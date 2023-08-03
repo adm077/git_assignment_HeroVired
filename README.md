@@ -15,9 +15,30 @@ I have developed a Python application called "CalculatorPlus." The application p
 
 **Bug Fixed**
   - During the second step I found a bug in the divide function
-  - Fixed that, test it again & push the code with the correct codes.
+  - Fixed that, test it again & pushed back with the correct codes.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Author
 
@@ -27,4 +48,4 @@ This assignment is created by **[Mohammad Israrul Haque]**.
 
 This assignment is licensed under the MIT License.
   
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
