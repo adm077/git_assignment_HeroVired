@@ -1,8 +1,16 @@
 # git_assignment_HeroVired
 CalculatorPlus.
+
 I have developed a Python application called "CalculatorPlus." The application provides basic arithmetic operations, such as addition, subtraction, multiplication, and division. 
-To do this
-  I have created a repo named #git_assignment_HeroVired
+
+**Step I**
+ - I have created a repo named **git_assignment_HeroVired**
+ - Under this repo created a ‘dev’ branch & implemented the basic arithmetic operations
+ - Test it & release the first version i.e. version v1.0
+
+**Step II**
+  - Implemented the function to calculate the square root of a number.
+  - First created a new branch feature/sqrt under 'dev'
+  - Add the .py codes for sqrt feature & Test it & release the second version i.e. version v2.0
   
 
-Your task is to implement a new feature that adds support for calculating the square root of a number. 
