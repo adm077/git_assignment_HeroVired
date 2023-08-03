@@ -23,15 +23,15 @@ I have developed a Python application called "CalculatorPlus." The application p
 Implemented & Demonstrated how to use Large File Storage using **git lfs**
 
  - Installed Git LFS on our local machine.
-   - # git lfs install
+   - git lfs install
  - Initialize Git LFS in the same Git repository.
-   - # git lfs init
+   - git lfs init
  - Track the large binary files in our repository.
-   - # git lfs track my_large_file.bin
+   - git lfs track my_large_file.bin
  - Add, commit, and push the binary files to the repository.
-   - # git add *.jpg
-   - # git commit -m "Added binary files"
-   - # git push
+   - git add *.jpg
+   - git commit -m "Added binary files"
+   - git push
  - Clone the repository on another machine to verify that the binary files are downloaded correctly.
 
 
