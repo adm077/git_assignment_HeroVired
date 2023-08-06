@@ -36,10 +36,11 @@ git lfs init
 git lfs track my_large_file.bin
 
 - Added, committed, and pushed the binary files to the repository.
-git add *.bin
-git commit -m "Added binary files"
-git push
-Cloned the repository on another machine to verify that the binary files are downloaded correctly.
+git add *.bin,
+git commit -m "Added binary files",
+git push,
+
+- Cloned the repository on another machine to verify that the binary files are downloaded correctly.
 
 ## Task 3 - Geometry-Calculator
 
