@@ -33,10 +33,8 @@ if __name__ == "__main__":
     num3 = 25
     print(f"The square root of {num3} = {calculator.square_root(num3)}")
 
-##Implementing the feature to calculate the area of a rectangle
+##Implementing the feature to calculate the area of a circle.
 
-length = 10
+radius = 5
 
-width = 6
-
-print(f"The area of the rectangle with length {length} and width {width} = {calculator.calculate_rectangle_area(length, width)}")
+print(f"The area of the circle with radius {radius} = {calculator.calculate_circle_area(radius)}")
